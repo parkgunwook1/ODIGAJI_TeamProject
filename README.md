@@ -19,24 +19,39 @@
 
 ## 기술 스택
 
-- **프론트엔드**: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **백엔드**: [Java](https://www.oracle.com/java/), servlet,  [JSP](https://www.oracle.com/java/technologies/javaserverpages.html)
-- **데이터베이스**: [Oracle](https://www.oracle.com/database/) ,  [MyBatis](https://mybatis.org/)
+- **프론트엔드**: HTML, JavaScript
+- **백엔드**: Java , servlet,  JSP
+- **데이터베이스**: Oracle ,  MyBatis
 
 
 ## 프로젝트 팀 구성 및 역할
 
 ### 류은선
-- 여행지&축제 추천 게시판 개발
-- 프론트 엔드개발
+- 여행지&축제 페이지
+- 식당&카페 페이지
+- 찜 삭제
 ### 박건욱
-- 회원가입(로그인,로그아웃) 개발
-- - 라이브채팅 개발
+- 웹소켓 라이브채팅 CRUD
+- 회원 CRUD
+   - 회원 탈퇴
+   - 아이디/비밀번호 찾기
+   - 마이페이지 정보 수정
+   - 회원가입
+   - 로그인/로그아웃
+ - 여행지/축제 게시글 찜등록
+ - 식당/카페 게시글 찜등록
 ### 이현영
-- 메인 게시판 개발
+- 메인 페이지
+- 동행게시판
+    - CRUD
+ - 마이페이지(동행 수락 기능)
 ### 장현진
-- 회원 서비스 파트 개발
+- 일반 게시판 CRUD
+     - CRUD
+ - 웹소켓 라이브채팅 CRUD
+ - 공지 게시판 CRUD
 ### 이준형
-- 라이브채팅 개발
+- 라이브채팅 프론트 제작
+- MAIN 페이지 CRUD
 
 
